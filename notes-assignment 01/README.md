@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-# ![Note Zipper](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
+
 
 
 
