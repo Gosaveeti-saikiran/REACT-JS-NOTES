@@ -11,25 +11,6 @@
 
 
 
-### Landing Page
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
-
-### Login Form
-You can register a new account or login with an existing one.
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/login.png)
-
-
-### Create a Note
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/create.png)
-
-
-
-### Edit Note
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/edit.png)
 
 ## Built with 
 
