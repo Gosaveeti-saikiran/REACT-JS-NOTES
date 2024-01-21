@@ -9,12 +9,7 @@
 
 # ![Note Zipper](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
 
-
-## Demo
-
-## Site
 
 ### Landing Page
 
@@ -25,9 +20,6 @@ You can register a new account or login with an existing one.
 
 ![](https://github.com/Piyush55dude/notezipper/blob/master/images/login.png)
 
-### Edit Profile
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/profile.png)
 
 ### Create a Note
 
